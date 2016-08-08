@@ -1,2 +1,2 @@
 # BP-OurStory
-逆袭小组的BP
+开智传奇小组的BP
