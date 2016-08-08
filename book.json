@@ -2,5 +2,9 @@
     "plugins": [
         "duoshuo"
     ],
-    "pluginsConfig": {be-ourstory}
+      "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "be-ourstory",
+            "theme": "default"
+        }
 }
